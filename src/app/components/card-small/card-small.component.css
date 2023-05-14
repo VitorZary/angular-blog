@@ -23,3 +23,7 @@
 .container_small-card__separator {
   margin-top: 10px;
 }
+
+.container_small-card__separator > hr {
+  opacity: .1;
+}
